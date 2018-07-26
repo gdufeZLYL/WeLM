@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "Card 卡片",
+  "usingComponents": {
+    "zan-card": "../../style/zanui-weapp-dev/dist/card/index",
+    "zan-panel": "../../style/zanui-weapp-dev/dist/panel/index",
+    "doc-page": "../components/doc-page/index"
+  }
+}
